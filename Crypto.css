@@ -1,0 +1,9 @@
+.container {
+  display:flex;
+  height: 100vh;
+  flex-wrap: wrap;
+  color: #317256;
+  border-color: black;
+  margin: 40px;
+  justify-content: space-around;
+}
